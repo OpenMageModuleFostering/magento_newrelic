@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Magento_NewRelic",
+    "type": "magento-module",
+    "license": "MITL",
+    "homepage": "",
+    "description": "Easily integrate New Relic with Magento to boost performance and gain insight into your business.",
+    "authors": [
+    {
+        "name": "Magento",
+        "email": "eeadmin@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
